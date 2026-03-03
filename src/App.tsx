@@ -113,11 +113,11 @@ function App() {
                 <div className="space-y-4">
                   <div className="flex justify-between items-center bg-white p-5 rounded-2xl shadow-md hover:shadow-lg transition-all border-l-4 border-emerald-600">
                     <span className="font-bold text-gray-800">10 Days</span>
-                    <span className="text-3xl font-black text-emerald-600">₹1,200</span>
+                    <span className="text-3xl font-black text-emerald-600">₹1,000</span>
                   </div>
                   <div className="flex justify-between items-center bg-white p-5 rounded-2xl shadow-md hover:shadow-lg transition-all border-l-4 border-emerald-600">
-                    <span className="font-bold text-gray-800">1 Month</span>
-                    <span className="text-3xl font-black text-emerald-600">₹2,700</span>
+                    <span className="font-bold text-gray-800">15 days</span>
+                    <span className="text-3xl font-black text-emerald-600">₹1300</span>
                   </div>
                 </div>
               </div>
@@ -131,11 +131,11 @@ function App() {
                 <div className="space-y-4">
                   <div className="flex justify-between items-center bg-white p-5 rounded-2xl shadow-md hover:shadow-lg transition-all border-l-4 border-teal-600">
                     <span className="font-bold text-gray-800">10 Days</span>
-                    <span className="text-3xl font-black text-teal-600">₹1,500</span>
+                    <span className="text-3xl font-black text-teal-600">₹1,200</span>
                   </div>
                   <div className="flex justify-between items-center bg-white p-5 rounded-2xl shadow-md hover:shadow-lg transition-all border-l-4 border-teal-600">
-                    <span className="font-bold text-gray-800">1 Month</span>
-                    <span className="text-3xl font-black text-teal-600">₹3,000</span>
+                    <span className="font-bold text-gray-800">15 days</span>
+                    <span className="text-3xl font-black text-teal-600">₹1,500</span>
                   </div>
                 </div>
               </div>
