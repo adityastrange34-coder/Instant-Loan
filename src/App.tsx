@@ -102,6 +102,24 @@ function App() {
             <h2 className="text-3xl font-bold text-gray-800 text-center mb-8">
               Interest Rates
             </h2>
+            <div className="grid md:grid-cols-2 gap-8 mb-10">
+              <div className="bg-gradient-to-br from-emerald-50 to-teal-50 rounded-3xl p-8 border-3 border-emerald-200 hover:shadow-2xl hover:border-emerald-400 transition-all duration-300 transform hover:-translate-y-2">
+                <div className="text-center mb-6">
+                  <div className="inline-block bg-gradient-to-r from-emerald-600 to-teal-600 text-white px-8 py-3 rounded-full font-black text-2xl shadow-lg">
+                    ₹5,000
+                  </div>
+                </div>
+                <div className="space-y-4">
+                  <div className="flex justify-between items-center bg-white p-5 rounded-2xl shadow-md hover:shadow-lg transition-all border-l-4 border-emerald-600">
+                    <span className="font-bold text-gray-800">10 Days</span>
+                    <span className="text-3xl font-black text-emerald-600">₹600</span>
+                  </div>
+                  <div className="flex justify-between items-center bg-white p-5 rounded-2xl shadow-md hover:shadow-lg transition-all border-l-4 border-emerald-600">
+                    <span className="font-bold text-gray-800">15 days</span>
+                    <span className="text-3xl font-black text-emerald-600">₹900</span>
+                  </div>
+                </div>
+              </div>
 
             <div className="grid md:grid-cols-2 gap-8 mb-10">
               <div className="bg-gradient-to-br from-emerald-50 to-teal-50 rounded-3xl p-8 border-3 border-emerald-200 hover:shadow-2xl hover:border-emerald-400 transition-all duration-300 transform hover:-translate-y-2">
